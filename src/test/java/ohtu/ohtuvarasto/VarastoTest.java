@@ -34,7 +34,7 @@ public class VarastoTest {
     @Test
     public void konstruktoriEiHyvaksyNegatiivistaSaldoa() {
         Varasto varasto = new Varasto(10, -10);
-        assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(5, varasto.getSaldo(), vertailuTarkkuus);
     }
 
     @Test
