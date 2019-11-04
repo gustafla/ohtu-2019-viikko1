@@ -1,4 +1,0 @@
-hy
-on
-iha
-hyvä
