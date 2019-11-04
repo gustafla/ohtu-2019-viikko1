@@ -1,3 +1,4 @@
 /*.tmp
 build/
 .gradle/
+.syntastic_javac_config
