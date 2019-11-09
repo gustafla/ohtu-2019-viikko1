@@ -9,6 +9,7 @@
 plugins {
     id "org.gradle.java"
     id "com.scuilion.syntastic" version "0.3.8"
+    id "checkstyle"
 }
 
 // Apply the java plugin to add support for Java
